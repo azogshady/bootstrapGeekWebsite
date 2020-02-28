@@ -1,0 +1,92 @@
+body{
+		/*background-color: powderblue;*/
+		background-image: url("backgroundIMGGalaxy.jpg");
+		background-repeat: no-repeat;
+		background-color: rgb(6,8,1);
+		
+		
+		
+	}
+a.navbar-brand{
+	text-transform: uppercase;
+	background-color: transparent;
+	font-style: oblique;
+}
+
+a.nav-link{
+	background-color: transparent;
+	font-style: oblique;
+	font-size: 20px;
+}
+
+div.jumbotron{
+	background-color: transparent;
+}
+
+h1.AstronomyTitle{
+	color : white;
+	text-align: center;
+	font: italic bold 20px Georgia, serif;
+}
+
+p.AstronomyIntroduction{
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+h5.nasacard-title{
+	color:white;
+}
+
+p.nasacard-text{
+	color: white;
+}
+
+h3.contact{
+	/*background-image : url("prometheus.jpg");
+	background-repeat: no-repeat;*/
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+
+h5.spaceX-title{
+	color: white;
+}
+
+p.spaceX-text{
+	color: white;
+}
+
+h5.blueorigintitle{
+	color: white;
+}
+
+p.blueorigintext{
+	color: white;
+}
+h1.famousquote{
+	background : transparent;
+	color : white;
+	font-size : 20px;
+}
+h1.author{
+	text-align: right;
+	color : white;
+	font-size : 15px;
+	
+}
+label.email{
+	color : white;
+}
+label.password{
+	color : white;
+}
+
+
+/*p.spaceAgencies{
+	color: white;
+	text-align: : center;
+	font-size: 20px;
+}*/
